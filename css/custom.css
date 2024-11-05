@@ -1,0 +1,143 @@
+body {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.container h1 {
+    font-weight: bold;
+}
+
+.table-responsive {
+    margin-top: 20px;
+}
+
+.modal-header {
+    border-bottom: none;
+}
+
+.modal-footer {
+    border-top: none;
+}
+
+.btn-primary {
+    background-color: #ff5e5e;
+    border-color: #ff5e5e;
+}
+
+.btn-primary:hover {
+    background-color: #ff3e3e;
+    border-color: #ff3e3e;
+}
+
+.text-primary {
+    color: #ff5e5e !important;
+}
+
+.modal-header {
+    background-color: #ff5e5e;
+    border-bottom: none;
+}
+
+.modal-header .close {
+    color: #fff;
+    opacity: 1;
+}
+
+.modal-header .close:hover {
+    color: #ccc;
+}
+
+.modal-body {
+    padding: 2rem;
+}
+
+.modal-footer {
+    border-top: none;
+}
+
+.btn-primary {
+    background-color: #ff5e5e;
+    border-color: #ff5e5e;
+}
+
+.btn-primary:hover {
+    background-color: #ff3e3e;
+    border-color: #ff3e3e;
+}
+
+.form-control:focus {
+    border-color: #ff5e5e;
+    box-shadow: 0 0 0 0.2rem rgba(255, 94, 94, 0.25);
+}
+
+.text-danger {
+    font-size: 0.875rem;
+}
+
+.modal-dialog {
+    margin-top: 10%;
+}
+
+.btn-block {
+    padding: 0.75rem;
+}
+
+label {
+    font-weight: bold;
+    color: #495057;
+}
+
+.modal-content {
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.modal-header {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+.modal-footer {
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+
+
+/* Centrar logo y enlaces en el navbar */
+.navbar {
+    justify-content: center;
+    text-align: center;
+}
+
+.navbar .navbar-brand {
+    margin-right: 0;
+}
+
+.navbar .navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar .navbar-nav .nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar .navbar-nav .nav-link {
+    font-weight: bold; /* Enlaces en negrita */
+    color: #555;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: #ff3e3e;
+}
+
+.navbar .nav-link:hover {
+    color: #ff6600; /* Naranja al pasar el puntero */
+}
+
